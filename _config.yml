@@ -1,19 +1,4 @@
-name: '33557'
-favicon: null
-layout_spectrum: 0.05095527716912329
-typography_spectrum: 0.7957660073880106
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.4192259953374799
 color:
   brandColors:
     - '#9D2D3C'
@@ -21,8 +6,163 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.5867996567394584
-  lightness: 0.078550118021667
-  saturation: 0.18332503479905427
-  rhythmicContrast: 0.26483449386432767
+  brandStrength: 0.8925655988806693
+  lightness: 0.25244322446138034
+  saturation: 0.24726009191401155
+  rhythmicContrast: 0.7686621929762313
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.13584317306932617
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: '33557'
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Only A Cur
+    id: 73b6bcb9-0fbf-408e-8b95-c13dbac181e9
+    type: content
+  - name: Chapter 2 -The Cruel Milkman
+    id: 7410742b-214e-42fb-b2f3-c7e0f366bb89
+    type: content
+  - name: Chapter 3 - My Kind Deliverer and Miss Laura
+    id: 55358c42-82e2-4e77-ba08-6d7a888c4177
+    type: content
+  - name: Chapter 4 - The Morris Boys Add to My Name
+    id: c65e0bd1-e553-46cf-8301-5604ff83d3d6
+    type: content
+  - name: Chapter 5 - My New Home and a Selfish Lady
+    id: 6f94e1af-6807-49b7-b7f9-ff9469d76afd
+    type: content
+  - name: Chapter 6 - The Fox Terrier Billy
+    id: 959b933e-5062-4606-b2d8-4614c1a5cfbb
+    type: content
+  - name: Chapter 7 - Training a Puppy
+    id: 6aed9330-e5a1-4533-a0b0-f573e504a043
+    type: content
+  - name: Chapter 8 - A Ruined Dog
+    id: 3bfec3ec-89e8-46f4-a3d1-741dad9857ad
+    type: content
+  - name: Chapter 9 - The Parrot Bella
+    id: 0c98163a-ee7d-4b0d-9dc9-f0a04c777cba
+    type: content
+  - name: Chapter 10 - Billy's Training Continued
+    id: d9ff0967-729a-4cc8-8885-db5c2b855b01
+    type: content
+  - name: Chapter 11 - Goldfish and Canaries
+    id: eddc32dd-9901-430b-b1fc-cb5428b6222b
+    type: content
+  - name: 'Chapter 12 - Malta, the Cat'
+    id: ae792bf2-f3a8-461f-8733-1e976fb2f8fc
+    type: content
+  - name: Chapter 13 - The Beginning of an Adventure
+    id: e2d7cc5e-c157-4145-8361-f9f0ac49562d
+    type: content
+  - name: Chapter 14 - How We Caught The Burglar
+    id: 5fe865a3-a289-4f04-a3b7-52714fe4b28e
+    type: content
+  - name: Chapter 15 - Our Journey To Riverdale
+    id: 85f0e85b-d7f2-4aea-b84b-420d4c965bdb
+    type: content
+  - name: Chapter 16 - Dingley Farm
+    id: 4997189f-127d-4258-bf84-cbe21e87c7e2
+    type: content
+  - name: Chapter 17 - Mr. Wood and His Horses
+    id: c95f1889-b464-4d81-ac52-c8f051ba5602
+    type: content
+  - name: Chapter 18 - Mrs. Wood's Poultry
+    id: 9b2a9a9b-796a-4833-b347-ff01d1248128
+    type: content
+  - name: Chapter 19 - A Band of Mercy
+    id: 49e29321-3e11-4aab-a135-148d15ce3d0c
+    type: content
+  - name: Chapter 20 - Stories About Animals
+    id: 98d6d25d-ae58-45de-80db-96c7abaff85c
+    type: content
+  - name: Chapter 21 - Mr. Maxwell and Mr. Harry
+    id: 92b64119-3403-4c18-b813-78b03a119237
+    type: content
+  - name: Chapter 22 - Trapping Wild Animals
+    id: aa7916fc-552a-4de3-9d2f-da030c5efe73
+    type: content
+  - name: Chapter 23 - Trapping Wild Animals
+    id: a61d1674-bb23-4561-82a0-e4d30cb586ee
+    type: content
+  - name: Chapter 24 - The Rabbit and the Hen
+    id: f0dc47eb-2f60-4f06-aae5-e65975d1bb66
+    type: content
+  - name: Chapter 25 - A Happy Horse
+    id: 56d4802a-c35c-4b02-8388-42d754903895
+    type: content
+  - name: Chapter 26 - A Box of Money
+    id: a6df09ac-1f93-462a-9afd-2d60e8989195
+    type: content
+  - name: Chapter 27 - A Neglected Stable
+    id: 400c9382-95ba-4461-9e3f-983e04b06e8e
+    type: content
+  - name: Chapter 28 - The End of the Englishman
+    id: a4d033c0-cb3f-4e62-8cd4-9b9feb720058
+    type: content
+  - name: Chapter 29 - A Talk About Sheep
+    id: 19e83c45-6753-497d-a368-000c435db8a6
+    type: content
+  - name: Chapter 30 - A Jealous Ox
+    id: c9207b9f-0339-448f-bcd2-9e3f6e137836
+    type: content
+  - name: Chapter 31 - In the Cow Stable
+    id: 35a1b7af-af29-41cc-9e8e-e1b36662174e
+    type: content
+  - name: Chapter 32 - Our Return Home
+    id: dbbc2453-eb0b-4852-8901-66cda9dccd2a
+    type: content
+  - name: Chapter 33 - Performing Animals
+    id: bf8d73b9-827a-416a-9efa-229e5000453e
+    type: content
+  - name: Chapter 34 - A Fire in Fairport
+    id: 27f69be4-e8e5-437d-958a-67d6447474d0
+    type: content
+  - name: Chapter 35 - Billy and the Italian
+    id: dbae1a77-8317-4e41-acb3-4e48ccd7167e
+    type: content
+  - name: Chapter 36 - Dandy the Tramp
+    id: 3090555d-8601-4bc5-ba09-ca80270f5b43
+    type: content
+  - name: Chapter 37 - The End of My Story
+    id: 573eada4-6710-4e59-aa34-b76902d276ed
+    type: content
+favicon: null
+title: Beautiful Joe
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32ec348f-9e3b-4879-989a-a898ed084c85.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/32ec348f-9e3b-4879-989a-a898ed084c85.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Margaret Marshall Saunders
 purpose: []
+github: true
